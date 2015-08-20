@@ -11,6 +11,7 @@ I used to be a PHP developer. Then a PhoneGap developer, and now JavaScript and 
 ## Environment
 
 * https://github.com/irnc/explore-linux
+* https://github.com/irnc/explore-docker
 
 ## Artifacts from my PhoneGap period (August 2011 - September 2012)
 
@@ -75,7 +76,6 @@ I used to be a PHP developer. Then a PhoneGap developer, and now JavaScript and 
 * https://github.com/irnc/new-flat (TODO: merge with kvartira)
 * https://github.com/irnc/notes-angular-mongoose
 * https://github.com/irnc/newspaper
-* https://github.com/irnc/explore-docker
 * https://github.com/irnc/explore-business
 * https://github.com/irnc/explore-http
 * https://github.com/irnc/javascript-history
