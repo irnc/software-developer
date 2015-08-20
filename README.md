@@ -8,6 +8,10 @@ I am saying it too, because I do develop software for living.
 
 I used to be a PHP developer. Then a PhoneGap developer, and now JavaScript and Web are my daily job.
 
+## Environment
+
+* https://github.com/irnc/explore-linux
+
 ## Artifacts from my PhoneGap period (August 2011 - September 2012)
 
 * https://github.com/irnc/facebook-ios-sdk
