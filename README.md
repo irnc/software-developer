@@ -8,6 +8,8 @@ I am saying it too, because I do develop software for living.
 
 I used to be a PHP developer. Then a PhoneGap developer, and now JavaScript and Web are my daily job.
 
+Source code should be reabalbe, so we strive to creat [clean code](https://github.com/irnc/clean-code).
+
 ## Environment
 
 * https://github.com/irnc/explore-linux
