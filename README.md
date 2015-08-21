@@ -15,6 +15,12 @@ Source code should be reabalbe, so we strive to creat [clean code](https://githu
 * https://github.com/irnc/explore-linux
 * https://github.com/irnc/explore-docker
 
+## Beginners; is it worth to become a software engineer?
+
+Some has said that [_software engineers will be obsolete by 2060_](https://medium.com/@dtauerbach/software-engineers-will-be-obsolete-by-2060-2a214fdf9737). It is 2015, and it is hard to belive in that statement; given arguments are weak and laughable, consider following one, which is _major_:
+
+> The current version of the profession is under pressure along two fronts. First, there are website-building tools like Weebly that allow anyone to build a website without writing software.
+
 ## Artifacts from my PhoneGap period (August 2011 - September 2012)
 
 * https://github.com/irnc/facebook-ios-sdk
