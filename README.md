@@ -15,6 +15,22 @@ Source code should be reabalbe, so we strive to creat [clean code](https://githu
 * https://github.com/irnc/explore-linux
 * https://github.com/irnc/explore-docker
 
+## What to do?
+
+Why am I doing softare development? It ain't for money. Working full days, for 40 years ahead will not bring me even $2 million. It is not about total value, it is about how much my contributions are valued. It is about for how much I can ask in response.
+
+I am dissatisfied with what can be achived keeping existing state of affairs. There are a lot of issues which are completely wrong. For many reasons it is not alright to maintain status quo. It should be changed.
+
+Is it possible be change everything by yourself? Not for me. But I still want to change a lot of things. Here comes money, required to ask people to act the way it is needed for me. Money is a reality check to see that a change is needed.
+
+I am a software developer, it is a well paid job, but how much time it takes in exchange? How much time should I allow to take it from my life? Ideally none, as this will not bring me closer to my goal, it will not give me enough money for sustainable change.
+
+Being optimistic means seeing task in every issue, combine it with being a software developer, and there is a _missing automation_ in every issue.
+
+So, I am developing software to explore _everything new to me_ and to understand it on the way of conducting a paid job. Why it is needed? To learn someting new every day, ... (it is late, list will be expanded).
+
+There is a need for a drastical change, and I need to keep exploring to find a way, how I can make sustainable change to myself and to the World surrounding me.
+
 ## Beginners; is it worth to become a software engineer?
 
 Some has said that [_software engineers will be obsolete by 2060_](https://medium.com/@dtauerbach/software-engineers-will-be-obsolete-by-2060-2a214fdf9737). It is 2015, and it is hard to belive in that statement; given arguments are weak and laughable, consider following one, which is _major_:
