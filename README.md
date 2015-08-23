@@ -31,6 +31,12 @@ So, I am developing software to explore _everything new to me_ and to understand
 
 There is a need for a drastical change, and I need to keep exploring to find a way, how I can make sustainable change to myself and to the World surrounding me.
 
+### Should I share my findings?
+
+You never know what you will found when exploring _in the wild_. It may be valuable knowleage, new opportunity, or things which better left private. Knowleadge is worth sharing it for sure. New opportunities should be explored deeper in order to be exploitable, though it depends which part should be shared, so I can use this opportunity towards my goals.
+
+Other than that, there are personal issues. Looking for something may reveal details which should be kept private. Either for ethical norms, personal security concerns or because of gray zones in understanding legal consequences.
+
 ## Beginners; is it worth to become a software engineer?
 
 Some has said that [_software engineers will be obsolete by 2060_](https://medium.com/@dtauerbach/software-engineers-will-be-obsolete-by-2060-2a214fdf9737). It is 2015, and it is hard to belive in that statement; given arguments are weak and laughable, consider following one, which is _major_:
